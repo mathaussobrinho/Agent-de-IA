@@ -81,16 +81,3 @@ dotnet test BotTests/
 
 ---
 
-## Licença
-
-MIT © Seu Nome
-
----
-
-## Contato
-
-Se quiser contribuir, abrir issues ou dúvidas, fique à vontade!
-
----
-
-*Desenvolvido com ❤️ usando C# e Discord.Net*
