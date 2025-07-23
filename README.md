@@ -69,15 +69,3 @@ Bot para Discord escrito em C# que permite:
 
 ---
 
-## Testes
-
-Este projeto possui testes unitários usando [xUnit](https://xunit.net/) (opcional).
-
-Para rodar os testes:
-
-```bash
-dotnet test BotTests/
-```
-
----
-
