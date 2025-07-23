@@ -34,7 +34,7 @@ Bot para Discord escrito em C# que permite:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/mathaussobrinho/Agent-de-IA
    cd seu-repo
    ```
 
